@@ -1,0 +1,5 @@
+Accuracy = (TP + TN)/# of instances
+
+Recall = TP/(TP+FP)
+
+Precision = TP / (TP+FN)
